@@ -1,0 +1,11 @@
+{
+  "name": "thehand",
+  "version": "0.0.1",
+  "description": "This is a distributed dns service",
+  "main": "dist/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
